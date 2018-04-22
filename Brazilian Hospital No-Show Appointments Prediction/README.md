@@ -1,0 +1,2 @@
+## Brazilian-Hospital-No-Show-Appointments-Prediction---Investigation-in-Python
+Used Python libraries Python (pandas, numpy, matplotlib, csv) to investigate a dataset with information from 100k medical appointments from a Brazilian hospital. The analysis was focused on what factors are important for the hospital to know in order to predict if a patient will show up for their scheduled appointment. The analysis and findings were documented in a Jupyter Notebook.
